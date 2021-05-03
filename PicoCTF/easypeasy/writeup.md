@@ -1,6 +1,7 @@
 # Name: easypeasy
-# Platform: picoCTF
-# Time elapsed: 5hrs
+## Platform: picoCTF
+## Time elapsed: 5hrs
+## Category: Cryptography
 
 Despite the name of the challenge, it only has a 19% clear rate, so not exactly a walk in the park.
 
